@@ -15,6 +15,7 @@ body
 {
     width:100vw;
     height:max-content;
+    min-height:100vh;
     overflow-x: hidden;
     /* background-image:;
     background:linear-gradient(rgba(4,9,30,0.9)); */
